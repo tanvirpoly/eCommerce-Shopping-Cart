@@ -1,7 +1,5 @@
 # eCommerce-Shopping-Cart
 eCommerce Shopping Cart
-
-# Email Validation Check by JavaScript
 ---
 
 
